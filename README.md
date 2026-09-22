@@ -1,2 +1,2 @@
-# c-assignment
+# hello world-assignment
 assignment for semester I
